@@ -1,6 +1,6 @@
 {
   "name": "@vnlogin1/tea-vn1-quest",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
